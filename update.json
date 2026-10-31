@@ -1,0 +1,10 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "changelog": "1. 自动找源全部在线化,验证通过后自动合并为本地合并源\n2. 主页源每次打开随机,新增刷新按钮一键换源\n3. 搜索/换源按后端去重,不再重复请求\n4. 新增应用内自动更新",
+  "sha256": "6ec80436df608f8a2e16d022e71042eb1f0b2f09f8ada7fab39cbb097adbdfa7",
+  "apk": [
+    "https://gh-proxy.com/https://raw.githubusercontent.com/gitzcs/TVBoxApp-release/main/apk/TVBoxApp-1.1.0.apk",
+    "https://raw.githubusercontent.com/gitzcs/TVBoxApp-release/main/apk/TVBoxApp-1.1.0.apk"
+  ]
+}
