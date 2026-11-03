@@ -1,0 +1,10 @@
+{
+  "versionCode": 4, 
+  "apk": [
+    "https://gh-proxy.com/https://raw.githubusercontent.com/gitzcs/TVBoxApp-release/main/apk/TVBoxApp-1.2.1.apk", 
+    "https://raw.githubusercontent.com/gitzcs/TVBoxApp-release/main/apk/TVBoxApp-1.2.1.apk"
+  ], 
+  "sha256": "078bc39365ea414a5262e34632c7fad811570261ed1a033067724be0b1d75322", 
+  "versionName": "1.2.1", 
+  "changelog": "1. \u4fee\u590d\u4e3b\u9875\u6807\u7b7e\u6309\u4e0a\u5237\u65b0\u540e,\u7ad9\u70b9\u63a8\u8350\u5217\u8868\u4e0a\u65b9\u51fa\u73b0\u7a7a\u767d\u7684\u95ee\u9898\n2. \u7ee7\u627f 1.2.0:jar \u4e0b\u8f7d\u955c\u50cf\u52a0\u901f\u4e0e GitHub \u88ab\u5899\u73af\u5883\u81ea\u52a8\u627e\u6e90\u9002\u914d"
+}
